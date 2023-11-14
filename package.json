@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "@apollo/server": "^4.9.5",
+    "@mikro-orm/core": "^5.9.3",
+    "@mikro-orm/postgresql": "^5.9.3",
     "apollo-server": "^3.12.1",
     "graphql": "^16.8.1",
     "nodemon": "^3.0.1"
